@@ -6,3 +6,6 @@
 *.out
 *.toc
 *.synctex.gz
+/ML/venv/
+ML/__pycache__
+ML/.ipynb_checkpoints
