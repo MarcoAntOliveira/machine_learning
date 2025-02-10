@@ -1,4 +1,4 @@
-/amb
+*amb
 *.aux
 *.fdb_latexmk
 *.fls
@@ -6,6 +6,10 @@
 *.out
 *.toc
 *.synctex.gz
-/ML/venv/
-ML/__pycache__
-ML/.ipynb_checkpoints
+*__pycache__
+*.ipynb_checkpoints
+*venv/
+*.obsidian
+*.gv
+*.gv.pdf
+*.vscode
